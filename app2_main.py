@@ -8,4 +8,3 @@ print(f"Status code: {r.status_code}")
 
 response_dict = r.json()
 print(response_dict.keys())
-print(f"Total repositories: {response_dict["total_count"]}")
