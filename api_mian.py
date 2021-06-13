@@ -47,6 +47,7 @@ data = [{
     'marker' : {
         'color' : 'rgb(60, 100, 150)',
         '' : {}
+    }
     }]
 my_layout = {
         'title' : 'GitHub上最受欢迎的项目',
